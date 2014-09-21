@@ -1,0 +1,24 @@
+C:\Users\Dan\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Dan\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Dan\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Dan\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.frmMain.resources
+C:\Users\Dan\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Dan\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\JDTCustomerDatabase.vbproj.GenerateResource.Cache
+C:\Users\Dan\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Dan\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Dan\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\JDTCustomerDatabase\JDTCustomerDatabase\bin\Debug\JDTCustomerDatabase.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\JDTCustomerDatabase\JDTCustomerDatabase\bin\Debug\JDTCustomerDatabase.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\JDTCustomerDatabase\JDTCustomerDatabase\bin\Debug\JDTCustomerDatabase.xml
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\JDTCustomerDatabase\JDTCustomerDatabase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\JDTCustomerDatabase\JDTCustomerDatabase\obj\Debug\JDTCustomerDatabase.vbproj.GenerateResource.Cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\JDTCustomerDatabase\JDTCustomerDatabase\obj\Debug\JDTCustomerDatabase.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\JDTCustomerDatabase\JDTCustomerDatabase\obj\Debug\JDTCustomerDatabase.xml
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\JDTCustomerDatabase\JDTCustomerDatabase\obj\Debug\JDTCustomerDatabase.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\JDTCustomerDatabase\JDTCustomerDatabase\obj\Debug\JDTCustomerDatabase.frmMain.resources
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\JDTCustomerDatabase\JDTCustomerDatabase\obj\Debug\JDTCustomerDatabase.Resources.resources
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\JDTCustomerDatabase\JDTCustomerDatabase\bin\Debug\JDTCustomerDatabase.exe.manifest
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\JDTCustomerDatabase\JDTCustomerDatabase\bin\Debug\JDTCustomerDatabase.application
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\JDTCustomerDatabase\JDTCustomerDatabase\obj\Debug\JDTCustomerDatabase.exe.manifest
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\JDTCustomerDatabase\JDTCustomerDatabase\obj\Debug\JDTCustomerDatabase.application

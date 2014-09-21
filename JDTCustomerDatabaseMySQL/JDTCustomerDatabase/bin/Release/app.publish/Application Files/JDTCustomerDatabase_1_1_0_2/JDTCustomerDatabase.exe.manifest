@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="JDTCustomerDatabase.exe" version="1.1.0.2" publicKeyToken="f81a5a379ff4f60d" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="dexter.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="JDTCustomerDatabase" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="JDTCustomerDatabase.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="JDTCustomerDatabase.exe" size="123392">
+      <assemblyIdentity name="JDTCustomerDatabase" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>l8NaUkL4hgQQhW1HMGPlTwCGLQk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="dexter.ico" size="38913">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>/zaCCKEj/zS+JIBSA5dz9D0G9LU=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Dan-PC\Dan" issuerKeyHash="e9b771a13e2f4fca13fe41a8726ee7726295c11c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>1QQDLUjKbgYCp5VjGjQ4W+Q0a5A=</DigestValue></Reference></SignedInfo><SignatureValue>NojBNnM8chR9qcPg6mCEiTs8MysxLYWI8WilbHBLwKfnlB1F4Esp50ZWtvoLth3SgRUQIMenUZYMZFrKjwgekq/cjhrUROWM1VBDe/iNhTnq+nATzA0vH8608qE685B3HNnmLWUEsR0J44zrSxyqf2MHrLsb3ionNjLEjBeM2zA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>szFHEYU60xmh0wPleOXilCIpaSmPLDqlPoGxile6u5nrtNi/WVxW8W/PdrhC5x6i3xywF6KF57ZWrRHmqJnNyukOXXIv48E3+5F4m0sG4GG/4FkvtLj2RxiUAsttsE2N4+7yMLME28xwIYFKmALKB8+X1cRej9+XgDRuPFmEZXs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="906b34e45b38341a6395a702066eca482d0304d5" Description="" Url=""><as:assemblyIdentity name="JDTCustomerDatabase.exe" version="1.1.0.2" publicKeyToken="f81a5a379ff4f60d" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Dan-PC\Dan</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>FNaVVqmrBZ+sWzdtTo+GMH5z3CQ=</DigestValue></Reference></SignedInfo><SignatureValue>fpL54KQ869FCWv3lIKw5wZ5cSocnuOmZrD41QW7+y/7u1S3Hzm2OXw4rtx/UXcMZj5MYDILaAArlhKOm0lkthaBQD9FGP55hvdwXLkgjOTDQhD3dkHPrqRZMeRV9aiYZHT6GUcAp1+v33bR11I0QVTQIeF6ev5h7Yk+e28TeCYU=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>szFHEYU60xmh0wPleOXilCIpaSmPLDqlPoGxile6u5nrtNi/WVxW8W/PdrhC5x6i3xywF6KF57ZWrRHmqJnNyukOXXIv48E3+5F4m0sG4GG/4FkvtLj2RxiUAsttsE2N4+7yMLME28xwIYFKmALKB8+X1cRej9+XgDRuPFmEZXs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBwTCCASqgAwIBAgIQV6hu99z5BK1JTkj2R6+crTANBgkqhkiG9w0BAQUFADAfMR0wGwYDVQQDHhQARABhAG4ALQBQAEMAXABEAGEAbjAeFw0xMDAxMDIwNTQ0MjdaFw0xMTAxMDIxMTQ0MjdaMB8xHTAbBgNVBAMeFABEAGEAbgAtAFAAQwBcAEQAYQBuMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCzMUcRhTrTGaHTA+V45eKUIilpKY8sOqU+gbGKV7q7meu02L9ZXFbxb892uELnHqLfHLAXooXntlatEeaomc3K6Q5dci/jwTf7kXibSwbgYb/gWS+0uPZHGJQCy22wTY3j7vIwswTbzHAhgUqYAsoHz5fVxF6P35eANG48WYRlewIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAIpxaiayAHr50eP0bWyeYPGa3sa5m4rLp/T3xL0h316lNyQHbmOp6GPrOIR5VSuRTLjTikL92tyvYFvy8oJoi6x+a1JJSLrECNIuSFYrtRXfy5NkGDGGispwMchS2bQdRGMP8QATZZNqHLdSvMb268kH5EC3Zw49Rk17gL5OAl3I</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

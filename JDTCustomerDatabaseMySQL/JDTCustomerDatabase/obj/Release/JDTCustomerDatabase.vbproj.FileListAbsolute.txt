@@ -1,0 +1,14 @@
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\JDTCustomerDatabase\JDTCustomerDatabase\bin\Release\JDTCustomerDatabase.exe.manifest
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\JDTCustomerDatabase\JDTCustomerDatabase\bin\Release\JDTCustomerDatabase.application
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\JDTCustomerDatabase\JDTCustomerDatabase\bin\Release\JDTCustomerDatabase.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\JDTCustomerDatabase\JDTCustomerDatabase\bin\Release\JDTCustomerDatabase.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\JDTCustomerDatabase\JDTCustomerDatabase\bin\Release\JDTCustomerDatabase.xml
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\JDTCustomerDatabase\JDTCustomerDatabase\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\JDTCustomerDatabase\JDTCustomerDatabase\obj\Release\JDTCustomerDatabase.frmMain.resources
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\JDTCustomerDatabase\JDTCustomerDatabase\obj\Release\JDTCustomerDatabase.Resources.resources
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\JDTCustomerDatabase\JDTCustomerDatabase\obj\Release\JDTCustomerDatabase.vbproj.GenerateResource.Cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\JDTCustomerDatabase\JDTCustomerDatabase\obj\Release\JDTCustomerDatabase.exe.manifest
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\JDTCustomerDatabase\JDTCustomerDatabase\obj\Release\JDTCustomerDatabase.application
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\JDTCustomerDatabase\JDTCustomerDatabase\obj\Release\JDTCustomerDatabase.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\JDTCustomerDatabase\JDTCustomerDatabase\obj\Release\JDTCustomerDatabase.xml
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\JDTCustomerDatabase\JDTCustomerDatabase\obj\Release\JDTCustomerDatabase.pdb
